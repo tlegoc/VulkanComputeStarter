@@ -1,0 +1,21 @@
+# ninja log v6
+1	47	7494508446011304	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	abf2dcb3035b77bb
+1	47	7494508446011304	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	abf2dcb3035b77bb
+48	1505	7494508460598995	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	94f8376485c77551
+48	1505	7494508460598995	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	94f8376485c77551
+1506	1611	7494508460638979	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	9fc88d8a8539b695
+1506	1611	7494508460638979	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	9fc88d8a8539b695
+1611	1650	7494508462044185	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	4d6e0d8fc94e30e2
+1611	1650	7494508462044185	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	4d6e0d8fc94e30e2
+1650	1691	7494508462449310	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	1e363ebff0a31663
+1650	1691	7494508462449310	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	1e363ebff0a31663
+1691	1733	7494508462869326	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	6af3da8af7f364
+1691	1733	7494508462869326	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	6af3da8af7f364
+1733	1774	7494508463279393	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	84716ca2d018cfd8
+1733	1774	7494508463279393	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	84716ca2d018cfd8
+1774	1815	7494508463694486	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	56485fb6ac89c2b1
+1774	1815	7494508463694486	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	56485fb6ac89c2b1
+1815	1869	7494508464234501	CMakeFiles/vk-bootstrap-populate-complete	8c47bdab1e8ccb20
+1815	1869	7494508464234501	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	8c47bdab1e8ccb20
+1815	1869	7494508464234501	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete	8c47bdab1e8ccb20
+1815	1869	7494508464234501	C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	8c47bdab1e8ccb20

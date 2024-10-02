@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/CMakeFiles/vk_bootstrap-populate"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/CMakeFiles/vk_bootstrap-populate.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/CMakeFiles/vk_bootstrap-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk_bootstrap-subbuild/vk_bootstrap-populate-prefix/src/vk_bootstrap-populate-stamp/vk_bootstrap-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vk_bootstrap-populate"
+		],
+		"name" : "vk_bootstrap-populate"
+	}
+}

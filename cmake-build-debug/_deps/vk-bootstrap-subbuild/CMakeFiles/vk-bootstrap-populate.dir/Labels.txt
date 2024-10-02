@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test.rule
+C:/Users/theo/Documents/GitHub/RadianceCascadeGIVulkan/cmake-build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update.rule
